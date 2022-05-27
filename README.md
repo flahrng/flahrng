@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ooolá! 👋 Sou Flávia, mas pode me chamar de Flavinha 😄
+
 
 <!--
 **flahrng/flahrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
