@@ -1,5 +1,12 @@
 ### Ooolá! 👋 Sou Flávia, mas pode me chamar de Flavinha 😄
+<br>
 
+- :mortar_board: Formada em Ciência da Computação pela Univali
+- :heavy_check_mark: Certificada CTFL, CTFL-AT e CTAL-TAE pelo ISTQB
+- :heavy_check_mark: Certificada SAFe® 5 Practitioner pela Scaled Agile
+- :computer: Atuando como Analista de Testes/QA
+- :woman_technologist: Aprimorando conhecimentos em Automação de testes
+- :books: Estudando a técnica BDD
 
 <!--
 **flahrng/flahrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
