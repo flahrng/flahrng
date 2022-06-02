@@ -7,8 +7,13 @@
 - :computer: Atuando como Analista de Testes/QA
 - :woman_technologist: Aprimorando conhecimentos em Automação de testes
 - :books: Estudando a técnica BDD
+- 📫 :email: heringirl@gmail.com
 
 <!--
+Tecnologias e ferramentas que conheço:
+
+
+
 **flahrng/flahrng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
