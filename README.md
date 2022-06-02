@@ -1,5 +1,6 @@
 ### Ooolá! 👋 Me chamo Flávia, bem vindo(a) ao meu perfil!
 <br>
+
 - :mortar_board: Formada em Ciência da Computação pela Univali
 - :heavy_check_mark: Certificada CTFL, CTFL-AT e CTAL-TAE pelo ISTQB
 - :heavy_check_mark: Certificada SAFe® 5 Practitioner pela Scaled Agile
